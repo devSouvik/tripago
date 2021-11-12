@@ -7,18 +7,23 @@
     },
     {
       "title": " 3 night stay in Neye York",
-      "price": "$150",
+      "price": "$250",
       "id": 2
     },
     {
       "title": " 4 night stay in London",
-      "price": "$150",
+      "price": "$350",
       "id": 3
     },
     {
       "title": " 6 night stay in Australia",
-      "price": "$150",
+      "price": "$450",
       "id": 4
+    },
+    {
+      "title": " 7 night stay in Australia",
+      "price": "$1000",
+      "id": 5
     }
   ]
 }
